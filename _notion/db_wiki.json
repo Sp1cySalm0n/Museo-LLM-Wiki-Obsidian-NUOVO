@@ -1,0 +1,17 @@
+{
+  "parent": {"type": "page_id", "page_id": "331f270b-cab3-81b0-9173-d5ac7a10fe0d"},
+  "icon": {"type": "emoji", "emoji": "\ud83d\udcd6"},
+  "title": [{"type": "text", "text": {"content": "DB Wiki e Appunti"}}],
+  "properties": {
+    "Titolo": {"title": {}},
+    "Categoria": {"select": {"options": [
+      {"name": "Appunti", "color": "yellow"},
+      {"name": "Procedure", "color": "blue"},
+      {"name": "Marketing", "color": "pink"},
+      {"name": "Guida Museo", "color": "green"},
+      {"name": "Strategia Digitale", "color": "purple"},
+      {"name": "Archivio", "color": "gray"}
+    ]}},
+    "Ultima Modifica": {"last_edited_time": {}}
+  }
+}

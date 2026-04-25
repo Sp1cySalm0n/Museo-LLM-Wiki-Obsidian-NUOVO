@@ -1,0 +1,15 @@
+# Dimentica file inutili o molto pesanti in fase di commit
+*.pdf
+*.zip
+*.rar
+*.mp4
+*.mp3
+*.wav
+
+# Cartelle temporanee di compilazione
+node_modules/
+.env
+
+# File di configurazione spazzatura del mac o windows
+.DS_Store
+Thumbs.db

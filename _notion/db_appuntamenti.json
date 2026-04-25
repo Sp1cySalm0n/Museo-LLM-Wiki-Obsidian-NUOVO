@@ -1,0 +1,27 @@
+{
+  "parent": {"type": "page_id", "page_id": "331f270b-cab3-81b0-9173-d5ac7a10fe0d"},
+  "icon": {"type": "emoji", "emoji": "\ud83d\udcc5"},
+  "title": [{"type": "text", "text": {"content": "DB Appuntamenti"}}],
+  "properties": {
+    "Nome Prenotazione": {"title": {}},
+    "Data e Ora": {"date": {}},
+    "Email Cliente": {"email": {}},
+    "Telefono": {"phone_number": {}},
+    "Tipologia": {"select": {"options": [
+      {"name": "Visita Guidata", "color": "green"},
+      {"name": "Laboratorio Saponi", "color": "orange"},
+      {"name": "Evento Outdoor", "color": "blue"},
+      {"name": "Scuola / Gruppo", "color": "purple"},
+      {"name": "Degustazione", "color": "yellow"}
+    ]}},
+    "Stato": {"select": {"options": [
+      {"name": "Nuova Prenotazione", "color": "blue"},
+      {"name": "Confermato", "color": "green"},
+      {"name": "Concluso", "color": "gray"},
+      {"name": "Annullato", "color": "red"}
+    ]}},
+    "Numero Persone": {"number": {"format": "number"}},
+    "Link Gestione Luma": {"url": {}},
+    "Note": {"rich_text": {}}
+  }
+}

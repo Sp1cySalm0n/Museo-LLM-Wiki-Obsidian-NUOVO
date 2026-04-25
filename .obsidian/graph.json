@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "log ",
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Operativo/",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:wiki/",
+      "color": {
+        "a": 1,
+        "rgb": 5419430
+      }
+    },
+    {
+      "query": "path:raw/",
+      "color": {
+        "a": 1,
+        "rgb": 11053224
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 2.4734375,
+  "lineSizeMultiplier": 1.92899305555556,
+  "collapse-forces": false,
+  "centerStrength": 0.5,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 2.7556759606310672,
+  "close": false
+}

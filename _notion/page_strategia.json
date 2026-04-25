@@ -1,0 +1,31 @@
+{
+  "parent": {"type": "page_id", "page_id": "331f270b-cab3-81b0-9173-d5ac7a10fe0d"},
+  "icon": {"type": "emoji", "emoji": "\ud83d\ude80"},
+  "properties": {"title": {"title": [{"text": {"content": "Strategia Digitale e Marketing"}}]}},
+  "children": [
+    {"object":"block","type":"callout","callout":{"rich_text":[{"type":"text","text":{"content":"Piano d'azione per il progetto Phygital del Museo. Elaborato da Michele."}}],"icon":{"type":"emoji","emoji":"\ud83c\udfaf"},"color":"purple_background"}},
+    {"object":"block","type":"table_of_contents","table_of_contents":{"color":"default"}},
+    {"object":"block","type":"divider","divider":{}},
+    {"object":"block","type":"heading_2","heading_2":{"rich_text":[{"type":"text","text":{"content":"Obiettivo Generale"}}]}},
+    {"object":"block","type":"paragraph","paragraph":{"rich_text":[{"type":"text","text":{"content":"Applicare un approccio Phygital per creare un ecosistema organizzato e automatizzato al fine di accrescere la visibilit\u00e0, le prenotazioni e le vendite del museo."}}]}},
+    {"object":"block","type":"divider","divider":{}},
+    {"object":"block","type":"heading_2","heading_2":{"rich_text":[{"type":"text","text":{"content":"1. Dashboard Notion e Automazione"}}]}},
+    {"object":"block","type":"bulleted_list_item","bulleted_list_item":{"rich_text":[{"type":"text","text":{"content":"Hub Centrale: Pagina Notion strutturata per Annibale e Vittorio, dove consultare file, dati e stati di avanzamento."}}]}},
+    {"object":"block","type":"bulleted_list_item","bulleted_list_item":{"rich_text":[{"type":"text","text":{"content":"Booking Online: Implementazione di un calendario digitale (es. Luma o interni a Notion) per automatizzare le prenotazioni e gestire il database contatti."}}]}},
+    {"object":"block","type":"divider","divider":{}},
+    {"object":"block","type":"heading_2","heading_2":{"rich_text":[{"type":"text","text":{"content":"2. Soluzioni Phygital"}}]}},
+    {"object":"block","type":"bulleted_list_item","bulleted_list_item":{"rich_text":[{"type":"text","text":{"content":"Linktree di Impatto: Una pagina di atterraggio unica per social e info utili."}}]}},
+    {"object":"block","type":"bulleted_list_item","bulleted_list_item":{"rich_text":[{"type":"text","text":{"content":"QR Code Fisico: Creazione di supporti fisici (quadri/cavalieri) con QR code per accesso rapido a social, prenotazioni e password Wi-Fi."}}]}},
+    {"object":"block","type":"divider","divider":{}},
+    {"object":"block","type":"heading_2","heading_2":{"rich_text":[{"type":"text","text":{"content":"3. Marketing e Crescita"}}]}},
+    {"object":"block","type":"paragraph","paragraph":{"rich_text":[{"type":"text","text":{"content":"Sviluppo di strategie per aumentare il numero di visitatori, curando i canali social e proponendo innovazioni costanti basate sulla fiducia e l'iniziativa mostrata sul campo (es. integrazione tra artigianato locale, agricoltura e IA)."}}]}},
+    {"object":"block","type":"divider","divider":{}},
+    {"object":"block","type":"heading_2","heading_2":{"rich_text":[{"type":"text","text":{"content":"Stack Tecnologico del Progetto"}}]}},
+    {"object":"block","type":"bulleted_list_item","bulleted_list_item":{"rich_text":[{"type":"text","text":{"content":"Notion - Azienda / Project HQ: Dashboard centrale, calendari, repository di strategie."}}]}},
+    {"object":"block","type":"bulleted_list_item","bulleted_list_item":{"rich_text":[{"type":"text","text":{"content":"NotebookLM - Studio Closed-Loop: Elaborazione di fonti proprietarie. Zero allucinazioni."}}]}},
+    {"object":"block","type":"bulleted_list_item","bulleted_list_item":{"rich_text":[{"type":"text","text":{"content":"Perplexity - Research Engine: Ricerca profonda in tempo reale."}}]}},
+    {"object":"block","type":"bulleted_list_item","bulleted_list_item":{"rich_text":[{"type":"text","text":{"content":"Claude Code / Antigravity - Terminal IDE AI: Gestione progetti complessi, orchestrazione contesti."}}]}},
+    {"object":"block","type":"bulleted_list_item","bulleted_list_item":{"rich_text":[{"type":"text","text":{"content":"NanoBanana 2 / Pro - Image Generation: Composizione avanzata di immagini per le strategie visuali."}}]}},
+    {"object":"block","type":"bulleted_list_item","bulleted_list_item":{"rich_text":[{"type":"text","text":{"content":"ElevenLabs - Voice Synthesis: Generazione di asset audio ad alta fedelt\u00e0."}}]}}
+  ]
+}

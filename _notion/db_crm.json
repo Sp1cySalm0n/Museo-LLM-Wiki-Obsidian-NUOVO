@@ -1,0 +1,31 @@
+{
+  "parent": {"type": "page_id", "page_id": "331f270b-cab3-81b0-9173-d5ac7a10fe0d"},
+  "icon": {"type": "emoji", "emoji": "\ud83e\udd1d"},
+  "title": [{"type": "text", "text": {"content": "DB CRM Contatti"}}],
+  "properties": {
+    "Nome / Ente": {"title": {}},
+    "Categoria": {"select": {"options": [
+      {"name": "Scuola", "color": "blue"},
+      {"name": "Partner", "color": "purple"},
+      {"name": "Cliente", "color": "green"},
+      {"name": "Istituzione", "color": "red"},
+      {"name": "Media / Stampa", "color": "orange"},
+      {"name": "Tour Operator", "color": "yellow"}
+    ]}},
+    "Email": {"email": {}},
+    "Telefono": {"phone_number": {}},
+    "Stato Contatto": {"select": {"options": [
+      {"name": "Lead", "color": "blue"},
+      {"name": "In Contatto", "color": "yellow"},
+      {"name": "Acquisito", "color": "green"},
+      {"name": "Perso", "color": "red"}
+    ]}},
+    "Fonte": {"select": {"options": [
+      {"name": "Sito Web", "color": "blue"},
+      {"name": "Social", "color": "pink"},
+      {"name": "Passaparola", "color": "green"},
+      {"name": "Evento", "color": "orange"}
+    ]}},
+    "Note": {"rich_text": {}}
+  }
+}

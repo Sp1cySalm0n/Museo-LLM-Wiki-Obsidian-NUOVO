@@ -1,0 +1,33 @@
+{
+  "parent": {"type": "page_id", "page_id": "331f270b-cab3-81b0-9173-d5ac7a10fe0d"},
+  "icon": {"type": "emoji", "emoji": "\ud83d\udd10"},
+  "properties": {"title": {"title": [{"text": {"content": "Accessi e Credenziali"}}]}},
+  "children": [
+    {"object":"block","type":"callout","callout":{"rich_text":[{"type":"text","text":{"content":"AREA RISERVATA - Credenziali sensibili di accesso alle piattaforme digitali del museo. Non condividere questo link."}}],"icon":{"type":"emoji","emoji":"\ud83d\udd12"},"color":"red_background"}},
+    {"object":"block","type":"divider","divider":{}},
+    {"object":"block","type":"heading_2","heading_2":{"rich_text":[{"type":"text","text":{"content":"Infrastruttura Digitale"}}]}},
+    {"object":"block","type":"bulleted_list_item","bulleted_list_item":{"rich_text":[{"type":"text","text":{"content":"Agenzia Web: KM ZERO WEB MARKETING (Viterbo). Consulente: Alessia Martinelli."}}]}},
+    {"object":"block","type":"divider","divider":{}},
+    {"object":"block","type":"heading_2","heading_2":{"rich_text":[{"type":"text","text":{"content":"Sito Web"}}]}},
+    {"object":"block","type":"bulleted_list_item","bulleted_list_item":{"rich_text":[{"type":"text","text":{"content":"URL: www.fattoriaciuppatasca.it"}}]}},
+    {"object":"block","type":"bulleted_list_item","bulleted_list_item":{"rich_text":[{"type":"text","text":{"content":"Pannello gestione - Password: e7Hd6Reeh62EM,r"}}]}},
+    {"object":"block","type":"divider","divider":{}},
+    {"object":"block","type":"heading_2","heading_2":{"rich_text":[{"type":"text","text":{"content":"Email"}}]}},
+    {"object":"block","type":"heading_3","heading_3":{"rich_text":[{"type":"text","text":{"content":"Webmail Aziendale"}}]}},
+    {"object":"block","type":"bulleted_list_item","bulleted_list_item":{"rich_text":[{"type":"text","text":{"content":"Indirizzo: museo@fattoriaciuppatasca.it"}}]}},
+    {"object":"block","type":"bulleted_list_item","bulleted_list_item":{"rich_text":[{"type":"text","text":{"content":"Password: e7Hd6Reeh62EM,r"}}]}},
+    {"object":"block","type":"heading_3","heading_3":{"rich_text":[{"type":"text","text":{"content":"Gmail"}}]}},
+    {"object":"block","type":"bulleted_list_item","bulleted_list_item":{"rich_text":[{"type":"text","text":{"content":"Indirizzo: museofattoriaciuppatasca@gmail.com"}}]}},
+    {"object":"block","type":"bulleted_list_item","bulleted_list_item":{"rich_text":[{"type":"text","text":{"content":"Password: 21.06.2025"}}]}},
+    {"object":"block","type":"divider","divider":{}},
+    {"object":"block","type":"heading_2","heading_2":{"rich_text":[{"type":"text","text":{"content":"Social Media"}}]}},
+    {"object":"block","type":"heading_3","heading_3":{"rich_text":[{"type":"text","text":{"content":"YouTube"}}]}},
+    {"object":"block","type":"bulleted_list_item","bulleted_list_item":{"rich_text":[{"type":"text","text":{"content":"Password: Museo21062025"}}]}},
+    {"object":"block","type":"heading_3","heading_3":{"rich_text":[{"type":"text","text":{"content":"LinkedIn"}}]}},
+    {"object":"block","type":"bulleted_list_item","bulleted_list_item":{"rich_text":[{"type":"text","text":{"content":"Account attivo (credenziali da definire)"}}]}},
+    {"object":"block","type":"divider","divider":{}},
+    {"object":"block","type":"heading_2","heading_2":{"rich_text":[{"type":"text","text":{"content":"Contatti Operativi"}}]}},
+    {"object":"block","type":"bulleted_list_item","bulleted_list_item":{"rich_text":[{"type":"text","text":{"content":"Telefono Museo: 376 2826539"}}]}},
+    {"object":"block","type":"bulleted_list_item","bulleted_list_item":{"rich_text":[{"type":"text","text":{"content":"Email principale: museo@fattoriaciuppatasca.it"}}]}}
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "parent": {"type": "page_id", "page_id": "331f270b-cab3-81b0-9173-d5ac7a10fe0d"},
+  "icon": {"type": "emoji", "emoji": "\u2705"},
+  "title": [{"type": "text", "text": {"content": "DB Tasks"}}],
+  "properties": {
+    "Nome Task": {"title": {}},
+    "Fatto": {"checkbox": {}},
+    "Scadenza": {"date": {}},
+    "Priorita": {"select": {"options": [
+      {"name": "Alta", "color": "red"},
+      {"name": "Media", "color": "yellow"},
+      {"name": "Bassa", "color": "gray"}
+    ]}},
+    "Area": {"select": {"options": [
+      {"name": "Marketing", "color": "pink"},
+      {"name": "Museo / Allestimento", "color": "brown"},
+      {"name": "Digitale / IT", "color": "blue"},
+      {"name": "Amministrazione", "color": "gray"},
+      {"name": "Evento", "color": "orange"}
+    ]}},
+    "Assegnato a": {"people": {}}
+  }
+}

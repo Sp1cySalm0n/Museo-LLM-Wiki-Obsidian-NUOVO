@@ -1,0 +1,17 @@
+{
+  "parent": {"type": "page_id", "page_id": "331f270b-cab3-80bc-8f86-d66e12d1d552"},
+  "icon": {"type": "emoji", "emoji": "\u2699\ufe0f"},
+  "properties": {
+    "title": {"title": [{"text": {"content": "BACKEND MUSEO"}}]}
+  },
+  "children": [
+    {
+      "object": "block", "type": "callout",
+      "callout": {
+        "rich_text": [{"type": "text", "text": {"content": "Questa pagina contiene i database master del museo. Non modificare la struttura. Per lavorare, usa la Dashboard HQ."}}],
+        "icon": {"type": "emoji", "emoji": "\u26a0\ufe0f"},
+        "color": "yellow_background"
+      }
+    }
+  ]
+}
