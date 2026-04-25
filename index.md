@@ -16,7 +16,7 @@ Questo è il catalogo centrale di tutto il materiale presente. È diviso per cat
 
 ### Pagine Operative
 - [Sistema Operativo AI](wiki/Sistema_Operativo_AI.md) - Architettura RPECS e direttive IT.
-- [Inbox Notes](wiki/Inbox_Notes.md) - Task manager e appunti volanti.
+- [Progetto Notion](wiki/Progetto_Notion.md) - Sintesi dell'architettura per la dashboard Frontend.
 
 ## Fonti (Raw)
 *(I documenti originali intoccabili)*
@@ -24,5 +24,6 @@ Questo è il catalogo centrale di tutto il materiale presente. È diviso per cat
 - [contesto.md](raw/contesto.md) (ingest effettuato)
 - [guida_museo.md](raw/guida_museo.md) (ingest effettuato)
 - [identity.md](raw/identity.md) (ingest effettuato)
-- [inbox.md](raw/inbox.md) (ingest effettuato)
 - [claude.md](raw/claude.md) (ingest effettuato)
+- [Prompt Museo_Notion.md](raw/Prompt Museo_Notion.md) (ingest effettuato)
+- [scheda_tecnica_motore.md](raw/scheda_tecnica_motore.md) (ingest effettuato)

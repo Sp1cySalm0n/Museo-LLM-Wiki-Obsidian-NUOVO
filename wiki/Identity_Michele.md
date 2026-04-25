@@ -24,7 +24,8 @@ Applica questa visione anche in ambienti tradizionali come l'agricoltura e il tu
 
 ## Stack Architetturale Personale
 - **Notion:** HQ Aziendale
-- **NotebookLM:** Studio chiuso e validato
+- **NotebookLM:** Hub di decostruzione. L'utente gli scarica "tonnellate" di video YouTube o PDF complessi (es. corsi per sviluppatori sui tool AI); NotebookLM ne astrae i concetti formando una "Bozza `.md` densa" da passare ad Antigravity per lo sviluppo reale.
 - **Perplexity:** Ricerca live (MCP in terminale)
-- **Claude Code/Antigravity:** Terminale operativo e IDE AI responsabile del [Sistema_Operativo_AI](Sistema_Operativo_AI.md)
+- **Claude Design / Tool Visivi:** Sandbox prototipazione visiva rapida (UI/UX Mockups).
+- **Antigravity (IDE):** Meccanico di bordo. Legge, inibisce allucinazioni, programma (`Progetti_Digitali/`) e gestisce file markdown e operativi sotto traccia.
 - **Gemini / Gems:** Diario personale e brainstorming quotidiano.

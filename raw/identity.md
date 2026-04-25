@@ -25,7 +25,7 @@ Il workflow è rigorosamente distribuito su strumenti specifici per massimizzare
 | Strumento | Funzione Primaria | Caso d'Uso Specifico nel Workflow |
 | :--- | :--- | :--- |
 | **Notion** | Azienda / Project HQ | Dashboard centrale, calendari, repository di strategie, wiki di progetto. L'hub visivo. |
-| **NotebookLM** | Studio "Closed-Loop" | Elaborazione di fonti proprietarie (YouTube, file, PDF). Apprendimento zero-allucinazioni. Creazione di overview multimodali (audio/video/testo). |
+| **NotebookLM** | Sintesi Fonti Massive | Aggregatore intensivo (video YouTube, PDF, url esterni). Usato per assorbire tutorial complessi senza allucinazioni, estrapolarne il succo e fornire ad Antigravity file `.md` ad altissima densità (es. direttive su nuovi tool o bozze architetturali). |
 | **Perplexity** | Research Engine | Ricerca profonda in tempo reale, integrato come Model Context Protocol (MCP) per il terminale. |
 | **Claude Code** | Terminal & IDE AI | **Fulcro Operativo.** Gestione progetti complessi, riscrittura autonoma di file `.md`, orchestrazione contesti aziendali, brand identity compliance. |
 
@@ -34,9 +34,8 @@ Dalla nostra interazione diretta è emersa una dinamica ineluttabile di lavoro: 
 * **Zero-Trust sulle fonti esterne:** L'IA non deve MAI assumere dati esterni (es. brand di macchinari o nozioni storiche) laddove esistono PDF o manuali originali scansionati. L'adempimento tecnico (come dotarsi di Optical Character Recognition locale) precede il riempimento del contesto.
 * **Non dirmi di sì per farmi contento:** Michele preferisce essere fermato e interrogato se un comando presenta lacune, piuttosto che ricevere un task approssimativo ed eseguito male solo per "fretta di compiacere". La franchezza reciproca è alla base della sua architettura Phygital.
 | **Gemini / Gems** | Daily AI Assistant | Consultazione rapida quotidiana, brainstorming continuo e generazione di task isolati. |
-| **NanoBanana 2 / Pro** | Image Generation | Generazione, editing e composizione avanzata di immagini per le strategie visuali. |
-| **ElevenLabs** | Voice Synthesis | Generazione di asset audio ad alta fedeltà. |
-| **Antigravity** | terminale AI dal quale uso claude code, integrando modelli come gemini 3 pro, claude 4.5 sonnet, e altri. |
+| **Claude Design** | Visual Prototyping | Sandbox visivo "usa e getta". Aiuta a testare layout veloci prima che i codici vengano ingegnerizzati nel sistema principale. |
+| **Antigravity (IDE)** | Engine Operativo | Agent AI sistemico e residente nel terminale. Governa l'architettura Obsidian, il filesystem locale e ingegnerizza il codice operativo. Unisce il calcolo di modelli come Gemini 3 Pro con il controllo dell'IDE. |
 
 ## 3. PROTOCOLLO COMUNICATIVO E COGNITIVO (MINDSET)
 Come IA che collabora con Michele, il tuo output non deve solo essere corretto, ma deve riflettere la sua forma mentis. Attieniti a queste regole comportamentali:

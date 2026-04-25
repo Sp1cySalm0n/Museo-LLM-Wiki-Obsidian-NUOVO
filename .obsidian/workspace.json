@@ -11,14 +11,10 @@
             "id": "017739c3d87ab7c7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "log.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "log"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista grafo"
             }
           }
         ]
@@ -74,7 +70,8 @@
               "title": "Segnalibri"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -182,23 +179,27 @@
   },
   "active": "017739c3d87ab7c7",
   "lastOpenFiles": [
-    "LLM WIKI.md",
-    "log.md",
+    "raw/Brand_Reference",
+    "Progetti_Digitali/QR_Hub_Linktree",
+    "Progetti_Digitali",
+    "wiki/Sistema_Operativo_AI.md",
+    "wiki/Motore_Muzzi.md",
+    "wiki/Inbox_Notes.md",
+    "wiki/Identity_Michele.md",
+    "wiki/Filosofia_Phygital.md",
+    "wiki/Ente_Museo.md",
+    "Operativo/Diari/2026-04-25.md",
     "Operativo/task_board.md",
+    "wiki/Progetto_Notion.md",
+    "log.md",
+    "LLM WIKI.md",
     "index.md",
     "Operativo/Diari/Istruzioni_Diari.md",
     "Operativo/Diari",
-    "wiki/Inbox_Notes.md",
-    "2026-04-25.md",
     "Senza nome.canvas",
     "raw/guida_museo.md",
-    "wiki/Ente_Museo.md",
-    "wiki/Sistema_Operativo_AI.md",
     "raw/scheda_tecnica_motore.md",
-    "wiki/Motore_Muzzi.md",
     "wiki/Percorso_Espositivo.md",
-    "wiki/Filosofia_Phygital.md",
-    "wiki/Identity_Michele.md",
     "antigravity.md",
     "raw/inbox.md",
     "raw/identity.md",

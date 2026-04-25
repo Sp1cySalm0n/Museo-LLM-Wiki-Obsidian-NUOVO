@@ -15,3 +15,16 @@ Ristrutturato index.md in macro-categorie.
 
 ## [2026-04-25] system | Setup Operativo e Automazione
 Creata la cartella `Operativo/` per separare la lavagna (task_board.md) e le note giornaliere (Diari) dal Knowledge Base. Configurato il file schema `antigravity.md` per ufficializzare i documenti vivi (guida, contesto, identity) ed eliminati i file obsoleti (museo-file-master, inbox).
+
+## [2026-04-25] system | Avvio sessione e Linting
+Inizializzazione come "Antigravity". Verificato schema `antigravity.md` ed esplorato ambiente `Operativo`, `raw/` e `wiki/`. 
+Eseguito linting proattivo su `index.md`: rimosso orfano e inseriti `Scheda tecnica` e `Prompt Notion` in raw come "da ingestare".
+
+## [2026-04-25] ingest | file restanti
+- Eseguito ingest di `scheda_tecnica_motore.md`. Estrapolate e integrate importanti informazioni ingegneristiche e di sicurezza (Dual-Fuel, pressione) operando un massiccio refactoring della pagina in `wiki/Motore_Muzzi.md`.
+- Eseguito ingest di `Prompt Museo_Notion.md`. Traslata l'architettura in una nuova pagina wiki dedicata (`wiki/Progetto_Notion.md`).
+- Aggiornato `index.md` impostando lo status di ingest a "effettuato".
+
+## [2026-04-25] system | Consolidamento Workflow e Fine Sessione
+- Aggiornati `antigravity.md` e file dell'Identity per implementare il flusso di "sandbox visiva" con Claude Design e "distillazione fonti massive" (Tutorial/YouTube) tramite NotebookLM.
+- Creata l'infrastruttura root `Progetti_Digitali/` per astrarre lo sviluppo nativo di app/CSS dalle stesure documentali Wiki. Chiusura sessione odierna completata e ambiente igienizzato.
