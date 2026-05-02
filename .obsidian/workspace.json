@@ -11,10 +11,14 @@
             "id": "017739c3d87ab7c7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista grafo"
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ]
@@ -179,9 +183,22 @@
   },
   "active": "017739c3d87ab7c7",
   "lastOpenFiles": [
+    "Operativo/Bozza_Evento_Web.md",
+    "Operativo/Traduzione_Brochure.md",
+    "esterne_text.txt",
+    "interne_text.txt",
+    "brochure_viewer.html",
+    "pagine esterne_stampa_page_0.png",
+    "pagine interne_stampa_page_0.png",
+    "fitz_extracted.txt",
+    "extracted_texts.txt",
+    "pagine esterne_stampa.pdf",
+    "pagine interne_stampa.pdf",
+    "Volantino escursione 16 maggio 2026.pdf",
+    "Programma escursione 16 maggio 2026.pdf",
+    "Operativo/Diari/2026-05-02.md",
+    "Senza nome.canvas",
     "raw/Brand_Reference",
-    "Progetti_Digitali/QR_Hub_Linktree",
-    "Progetti_Digitali",
     "wiki/Sistema_Operativo_AI.md",
     "wiki/Motore_Muzzi.md",
     "wiki/Inbox_Notes.md",
@@ -195,8 +212,6 @@
     "LLM WIKI.md",
     "index.md",
     "Operativo/Diari/Istruzioni_Diari.md",
-    "Operativo/Diari",
-    "Senza nome.canvas",
     "raw/guida_museo.md",
     "raw/scheda_tecnica_motore.md",
     "wiki/Percorso_Espositivo.md",
@@ -204,8 +219,6 @@
     "raw/inbox.md",
     "raw/identity.md",
     "raw/contesto.md",
-    "raw/claude.md",
-    "wiki",
-    "raw"
+    "raw/claude.md"
   ]
 }

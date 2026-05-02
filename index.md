@@ -17,6 +17,8 @@ Questo è il catalogo centrale di tutto il materiale presente. È diviso per cat
 ### Pagine Operative
 - [Sistema Operativo AI](wiki/Sistema_Operativo_AI.md) - Architettura RPECS e direttive IT.
 - [Progetto Notion](wiki/Progetto_Notion.md) - Sintesi dell'architettura per la dashboard Frontend.
+- [Traduzione Brochure](Operativo/Traduzione_Brochure.md) - Testo tradotto della brochure in inglese.
+- [Bozza Evento Web](Operativo/Bozza_Evento_Web.md) - Contenuti web per evento "Radici d'Olio".
 
 ## Fonti (Raw)
 *(I documenti originali intoccabili)*

@@ -2,6 +2,16 @@
 
 Tutte le operazioni rilevanti (ingest, lint, bulk updates) sono registrate qui in modo cronologico.
 
+## [2026-05-02] system | Completamento Ingest e Operatività
+- OCR ed estrazione testo dai PDF della brochure cartacea (`pagine interne_stampa.pdf` e `pagine esterne_stampa.pdf`).
+- Creazione della traduzione strutturata in `Operativo/Traduzione_Brochure.md`.
+- Assimilazione informazioni dell'evento (Volantino e Programma) e stesura dei contenuti in `Operativo/Bozza_Evento_Web.md`.
+- Pulizia dell'ambiente dai file temporanei di OCR.
+- Commit e push su GitHub (Sincronizzazione completata).
+
+## [2026-05-02] system | Inizializzazione Giornata
+Apertura sessione operativa. Registrati nuovi task in `task_board.md` relativi all'evento del 23 Maggio, traduzione brochure e contatto WhatsApp tour operator. Creato diario giornaliero in `Operativo/Diari/2026-05-02.md`. In attesa degli allegati e messaggi.
+
 ## [2026-04-25] system | Inizializzazione struttura
 Configurazione dei file di schema `antigravity.md`, creazione log e indice. Creazione delle cartelle strutturali `raw/` e `wiki/`.
 

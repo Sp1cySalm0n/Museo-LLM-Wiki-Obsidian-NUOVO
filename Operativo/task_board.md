@@ -13,7 +13,9 @@ Questa è la tua scrivania personale. Usala per annotare al volo tutto ciò che 
 
 > [!todo] 🛠️ Cose da Fare (Azioni)
 > *Qui vanno le azioni pratiche, misurabili e completabili. Usa il tag #task.*
-> - [ ] #task 🔴 **[PRIORITÀ ALTA]** Tradurre in inglese la brochure cartacea piccola, replicando identicamente il layout di stampa (spazi, immagini, formati).
+> - [x] #task 🔴 **[PRIORITÀ ALTA]** Tradurre in inglese la brochure cartacea piccola, replicando identicamente il layout di stampa (in attesa del file). *TRADUZIONE COMPLETATA in Traduzione_Brochure.md*
+> - [ ] #task 🔴 **[PRIORITÀ ALTA]** Gestire evento 23 Maggio (Giulia Garsia): Inserire Locandina e Programma sul sito web, contattando la web agency per presentarsi.
+> - [ ] #task Rispondere al messaggio WhatsApp Business del tour operator ciclisti.
 > - [ ] #task Modificare il sistema di prenotazioni (integrazione calendario/automazioni) in coordinamento con la web agency.
 > - [ ] #task Avvisare referente per il cambio orari (Sabato fisso, altri giorni preno min. 10 persone).
 > - [/] #task Creare hub/Linktree con QR code multi-funzione da banco via Progetto Design System.
