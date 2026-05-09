@@ -2,6 +2,13 @@
 
 Tutte le operazioni rilevanti (ingest, lint, bulk updates) sono registrate qui in modo cronologico.
 
+## [2026-05-09] system | Elaborazione Crash Course e Task Logistici
+- Elaborato un "Crash Course" (Operativo/Crash_Course_Guida.md) iterativo per formare la guida turistica del museo.
+- Gestita l'estrazione testo dal PDF operativo per l'evento degustazione del 23 Maggio e fuso con la lista spesa nel diario odierno.
+- Aggiunte credenziali di Youppa Business in `credenziali.md`.
+- Inserito in task board l'obiettivo per l'esportazione delle telecamere SmartPSS su smartphone.
+- Eseguito commit e push su GitHub di fine sessione.
+
 ## [2026-05-09] system | Riordino strutturale e pulizia
 - Pulizia della root directory spostando le fonti PDF grezze (`Programma escursione`, `Volantino`, ecc.) nella cartella `raw/`.
 - Spostamento di `antigravity.md` in `raw/` e `LLM WIKI.md` in `docs/` in allineamento col workflow architetturale. Eliminato canvas vuoto.

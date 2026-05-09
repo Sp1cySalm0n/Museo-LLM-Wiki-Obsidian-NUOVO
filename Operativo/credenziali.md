@@ -12,3 +12,4 @@ Questo file contiene tutte le password, i login e gli accessi relativi al proget
 *   **Social:** 
     * YouTube (Pass: `Museo21062025`)
     * LinkedIn (Aggiungere qui se disponibile)
+*   **Youppa Business:** User: `Pom.ann@tiscali.it` | Pass: `Michele.00`

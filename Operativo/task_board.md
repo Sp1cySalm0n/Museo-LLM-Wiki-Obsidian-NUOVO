@@ -15,14 +15,16 @@ Questa è la tua scrivania personale. Usala per annotare al volo tutto ciò che 
 > *Qui vanno le azioni pratiche, misurabili e completabili. Usa il tag #task.*
 > - [x] #task 🔴 **[PRIORITÀ ALTA]** Tradurre in inglese la brochure cartacea piccola, replicando identicamente il layout di stampa (in attesa del file). *TRADUZIONE COMPLETATA in Traduzione_Brochure.md*
 > - [ ] #task 🔴 **[PRIORITÀ ALTA]** Gestire evento 23 Maggio (Giulia Garsia): Inserire Locandina e Programma sul sito web, contattando la web agency per presentarsi.
-> - [ ] #task Rispondere al messaggio WhatsApp Business del tour operator ciclisti.
+> - [ ] #task Preparare/acquistare cibo per degustazione evento (pane, pesti, paté, formaggi - vedi lista nel diario del 09/05).
+> - [x] #task Rispondere al messaggio WhatsApp Business del tour operator ciclisti.
 > - [ ] #task Modificare il sistema di prenotazioni (integrazione calendario/automazioni) in coordinamento con la web agency.
-> - [ ] #task Avvisare referente per il cambio orari (Sabato fisso, altri giorni preno min. 10 persone).
+> - [x] #task Avvisare referente per il cambio orari (Sabato fisso, altri giorni preno min. 10 persone).
 > - [/] #task Creare hub/Linktree con QR code multi-funzione da banco via Progetto Design System.
 > - [ ] #task Ricerca formati e supporti per i QR Code museali (stampa 3D, plexiglass, cavalieri, ecc.).
 > - [ ] #task Contattare Giulia (guida) per integrare i testi della wiki con il contesto botanico di Vendicari.
 > - [x] #task Fornire ad Annibale le credenziali email (fatto in chat).
 > - [x] #task Installare Node.js e Claude Code all'interno dell'ambiente terminale.
+> - [ ] #task Configurare visualizzazione telecamere di sicurezza (SmartPSS Lite) su smartphone.
 
 ---
 
