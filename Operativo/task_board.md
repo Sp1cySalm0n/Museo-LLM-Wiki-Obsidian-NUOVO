@@ -21,6 +21,8 @@ Questa è la tua scrivania personale. Usala per annotare al volo tutto ciò che 
 > - [/] #task Creare hub/Linktree con QR code multi-funzione da banco via Progetto Design System.
 > - [ ] #task Ricerca formati e supporti per i QR Code museali (stampa 3D, plexiglass, cavalieri, ecc.).
 > - [ ] #task Contattare Giulia (guida) per integrare i testi della wiki con il contesto botanico di Vendicari.
+> - [x] #task Fornire ad Annibale le credenziali email (fatto in chat).
+> - [x] #task Installare Node.js e Claude Code all'interno dell'ambiente terminale.
 
 ---
 

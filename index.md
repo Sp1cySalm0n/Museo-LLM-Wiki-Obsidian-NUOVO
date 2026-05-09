@@ -27,5 +27,6 @@ Questo è il catalogo centrale di tutto il materiale presente. È diviso per cat
 - [guida_museo.md](raw/guida_museo.md) (ingest effettuato)
 - [identity.md](raw/identity.md) (ingest effettuato)
 - [claude.md](raw/claude.md) (ingest effettuato)
+- [antigravity.md](raw/antigravity.md) (schema architettura)
 - [Prompt Museo_Notion.md](raw/Prompt Museo_Notion.md) (ingest effettuato)
 - [scheda_tecnica_motore.md](raw/scheda_tecnica_motore.md) (ingest effettuato)

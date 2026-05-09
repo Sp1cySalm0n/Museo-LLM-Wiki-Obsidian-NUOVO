@@ -13,3 +13,6 @@ node_modules/
 # File di configurazione spazzatura del mac o windows
 .DS_Store
 Thumbs.db
+
+# Ambiente locale
+node-v20.14.0-win-x64/

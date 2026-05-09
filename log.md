@@ -2,6 +2,12 @@
 
 Tutte le operazioni rilevanti (ingest, lint, bulk updates) sono registrate qui in modo cronologico.
 
+## [2026-05-09] system | Riordino strutturale e pulizia
+- Pulizia della root directory spostando le fonti PDF grezze (`Programma escursione`, `Volantino`, ecc.) nella cartella `raw/`.
+- Spostamento di `antigravity.md` in `raw/` e `LLM WIKI.md` in `docs/` in allineamento col workflow architetturale. Eliminato canvas vuoto.
+- Aggiunta configurazione locale di node-v20.14 al `.gitignore`.
+- Eseguito auto-salvataggio e sincronizzazione via Git.
+
 ## [2026-05-02] system | Completamento Ingest e Operatività
 - OCR ed estrazione testo dai PDF della brochure cartacea (`pagine interne_stampa.pdf` e `pagine esterne_stampa.pdf`).
 - Creazione della traduzione strutturata in `Operativo/Traduzione_Brochure.md`.
