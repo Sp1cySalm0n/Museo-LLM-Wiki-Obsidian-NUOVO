@@ -2,6 +2,11 @@
 
 Tutte le operazioni rilevanti (ingest, lint, bulk updates) sono registrate qui in modo cronologico.
 
+## [2026-05-23] system | Inizializzazione Sessione
+- Avvio della sessione del 23 Maggio 2026, giorno dell'evento "Radici d'Olio".
+- Creato diario giornaliero `2026-05-23.md`.
+- Caricato lo stato dei task operativi pendenti (degustazione, caricamento locandina/programma web, QR Hub).
+
 ## [2026-05-09] system | Elaborazione Crash Course e Task Logistici
 - Elaborato un "Crash Course" (Operativo/Crash_Course_Guida.md) iterativo per formare la guida turistica del museo.
 - Gestita l'estrazione testo dal PDF operativo per l'evento degustazione del 23 Maggio e fuso con la lista spesa nel diario odierno.
